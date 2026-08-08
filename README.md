@@ -11,3 +11,6 @@
 
 ## Data Dashboard
 [View Google Sheets](https://docs.google.com/spreadsheets/d/1Z1vvB9UYD9MZqRxDOh0vD33f8Zs3phyfDuG7qW89qJo/edit?usp=sharing)
+
+## Analisis Dashboard
+[View Analysis](https://canva.link/scomsisc1lnazh5)
