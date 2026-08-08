@@ -3,5 +3,5 @@
 ## Data Dummy
 
 ## Tools
-- Microsoft Excel
+- Google Sheets
 - Data Studio
